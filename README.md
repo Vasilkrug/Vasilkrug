@@ -8,3 +8,8 @@
 - 🌱 I’m currently learning Python and Web
 - 📫 How to reach me: vasilkrug@gmail.com
 
+   
+ [![codewars](https://www.codewars.com/users/Vasilkrug/badges/large)](https://www.codewars.com/users/Vasilkrug)  
+ 
+ [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=vkruglovec&theme=dark)](https://github.com/vkruglovec/leetcode-stats)
+ 
