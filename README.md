@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on <a href="https://vvkrug.ru/">portfolio</a>
 - 🌱 I’m currently learning Python and Web
-- 📫 How to reach me: vasilkrug@gmail.com
+- 📫 How to reach me: vkruglovec@gmail.com
 
    
  [![codewars](https://www.codewars.com/users/Vasilkrug/badges/large)](https://www.codewars.com/users/Vasilkrug)  
